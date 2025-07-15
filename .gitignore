@@ -1,2 +1,4 @@
 *.exe
 *.gguf
+*.log
+*.sha256
